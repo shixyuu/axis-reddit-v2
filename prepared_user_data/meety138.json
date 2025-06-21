@@ -1,0 +1,6 @@
+{
+    "username": "meety138",
+    "contributions": [
+        "In response to 'That's exactly the way it is in my company as well.  One day to write the code, build, test, get the release doc ready.\nA week to enter tickets, babysit the tickets through the approvals, go to CAB, only to have the tickets rejected because of some detail like the wording in one of the tasks wasn't EXACTLY what they expected (even though the person performing the deployment or validation knew exactly what was expected, and it's completely outlined in the release doc)....go back to the beginning and start all over.\nSo any time there's a planned deployment on a user story, we completely pad the estimate to account for the overhead of change control/change management.\nI get the fact that we need to protect our systems and ensure stability for our customers, but it shouldn't be at the expense of getting anything accomplished.\nEdit - also obligatory \"fuck ServiceNow\".  Dealing with it as we speak.  Buggy, shitty system.', a user said: 'I hate ServiceNow with a passion. The last place I worked for adopted with the promise that it would be the best thing ever. Instead, it's the worst system of it's kind I have ever used by a long shot.'"
+    ]
+}

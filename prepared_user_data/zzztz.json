@@ -1,0 +1,7 @@
+{
+    "username": "zzztz",
+    "contributions": [
+        "In response to 'Indeed, Negative results that prove a hypothesis wrong are also valuable results (assuming not a failure in execution).', a user said: 'Tell that to the reviewer and good luck if you're in an engineering field like computer science'",
+        "In response to 'Why is that?\nI understand that CS Field (specifically, Machine Learning) is driven by numbers and only numbers. X has to be better than Y to be even considered for publication.\nHowever, I found from experience and reading lots and lots of paper, that this futile.\nIf algorithm X works with dataset A, it doesn't mean the same algorithm will work with the same performance with dataset B.\nI have been stuck with a SOTA algorithm for a while, because I cannot bypass its SOTA results.\nBut guess what, they picked very good seeds and claimed it was random. Their code is published on GitHub (so it is not an implementation error)\nDone more experiments on a new dataset, and my found my algorithm performs better!\nSo, this is always one case!', a user said: 'Good for you, but what you have said exactly depicts the problem in the field of CS research: People are way too obsessed with numbers.\nSee, you have to try on new datasets to compete with SOTA, in order to become SOTA and get published. You are in the toxic cycle too.\nOne day people have to realize that CS research is no different from bio/chem research, and non-positive / sub-SOTA results should count and get published equally.'"
+    ]
+}
